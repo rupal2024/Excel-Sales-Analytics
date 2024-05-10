@@ -24,7 +24,7 @@
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/rupal2024/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Report%20by%20Years.pdf)_ & _[Months](https://github.com/rupal2024/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]()_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/rupal2024/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Market.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
@@ -33,13 +33,15 @@
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
+## Technical Skills Used in Reports:
+- [x]	Utilized Power Query for cleaning and data transformation purpose.
+- [x]	ETL (Extract-Transform-Load)
+- [x] Derived fiscal months and quarters .
+- [x] Data modeling in Power Pivot.
 - [x]	Utilizing DAX to create calculated columns.
+- [x]	Conditional Formatting
+- [x]	Advanced Excel Formulas & Functions.
+
 
 ## Soft Skills:
 - [x]	Refined understanding of Sales & Finance Reports
