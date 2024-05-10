@@ -2,18 +2,20 @@
 
 ## Sales Report :
 
+- **_[Customer Performance Report](https://github.com/rupal2024/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf):** 
 
-- **Project objective:** 
+   **Purpose:**  This report aims to identify trends, patterns, and opportunities for improving customer satisfaction, retention, and overall business growth.
 
-    **1.** Generate a _[customer performance report](https://github.com/rupal2024/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **Description:** The Customer Performance Report is a comprehensive analysis tool designed to delve into customer trends across diverse regions over multiple years. 
 
-    **2.** Perform an in-depth comparison between _[market performance and sales targets]()_
+ - **_[Customer Performance Report](https://github.com/rupal2024/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf):** 
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+   **Purpose:**  This report aims to identify trends, patterns, and opportunities for improving customer satisfaction, retention, and overall business growth.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+    **Description:** The Customer Performance Report is a comprehensive analysis tool designed to delve into customer trends across diverse regions over multiple years. 
+     By synthesizing vast datasets, it uncovers invaluable insights into regional variations, seasonal trends, and product preferences, enabling businesses to optimize marketing strategies, improve customer satisfaction, and enhance overall revenue generation.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+ **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
 ## Finance Report :
