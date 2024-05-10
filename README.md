@@ -8,12 +8,12 @@
 
     **Description:** The Customer Performance Report is a comprehensive analysis tool designed to delve into customer trends across diverse regions over multiple years. 
 
- - **_[Customer Performance Report](https://github.com/rupal2024/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf):** 
+ - **_[Market Performance & Target Report](https://github.com/rupal2024/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf):** 
 
-   **Purpose:**  This report aims to identify trends, patterns, and opportunities for improving customer satisfaction, retention, and overall business growth.
+   **Purpose:**  Generate Excel report to analyze market performance against set targets for informed decision-making.
 
-    **Description:** The Customer Performance Report is a comprehensive analysis tool designed to delve into customer trends across diverse regions over multiple years. 
-     By synthesizing vast datasets, it uncovers invaluable insights into regional variations, seasonal trends, and product preferences, enabling businesses to optimize marketing strategies, improve customer satisfaction, and enhance overall revenue generation.
+   **Description:** This Excel report provides a comprehensive analysis of market performance compared to predefined targets. By leveraging detailed data and insightful visualizations, it enables stakeholders to assess sales trends, identify areas of success or underperformance, and make informed decisions.
+   
 
  **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
@@ -22,7 +22,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]()_ & _[Months]()_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
